@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+
+    <string name="type_g">Choisir le groupe</string>
+
+    <string-array name="type_stat">
+        <item>Tous  </item>
+        <item>Cours </item>
+        <item>Groupe 1</item>
+        <item>Groupe 2</item>
+        <item>Groupe 3</item>
+        <item>Groupe 4</item>
+        <item>Groupe 5</item>
+        <item>Groupe 6</item>
+        <item>Groupe 7</item>
+        <item>Groupe 8</item>
+    </string-array>
+
+
+    <string-array name="type_groupe">
+        <item>Cours </item>
+        <item>Groupe 1</item>
+        <item>Groupe 2</item>
+        <item>Groupe 3</item>
+        <item>Groupe 4</item>
+        <item>Groupe 5</item>
+        <item>Groupe 6</item>
+        <item>Groupe 7</item>
+        <item>Groupe 8</item>
+    </string-array>
+
+
+    <string-array name="groupe">
+        <item>Groupe 1</item>
+        <item>Groupe 2</item>
+        <item>Groupe 3</item>
+        <item>Groupe 4</item>
+        <item>Groupe 5</item>
+        <item>Groupe 6</item>
+        <item>Groupe 7</item>
+        <item>Groupe 8</item>
+    </string-array>
+</resources>
